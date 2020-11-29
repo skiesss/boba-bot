@@ -1,0 +1,77 @@
+{
+    "LONGAN JUJUBE TEA": {
+        "name": "LONGAN JUJUBE TEA",
+        "category": "classic",
+        "user_likes": []
+    },
+    "BLACK/GREEN/OOLONG TEA": {
+        "name": "BLACK/GREEN/OOLONG TEA",
+        "category": "classic",
+        "user_likes": []
+    },
+    "HONEY TEA": {
+        "name": "HONEY TEA",
+        "category": "classic",
+        "user_likes": []
+    },
+    "WINTER MELON TEA": {
+        "name": "WINTER MELON TEA",
+        "category": "classic",
+        "user_likes": []
+    },
+    "BLACK MILK TEA": {
+        "name": "BLACK MILK TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "MILK GREEN TEA": {
+        "name": "MILK GREEN TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "ROSEHIP MILK TEA": {
+        "name": "ROSEHIP MILK TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "COFFEE MILK TEA": {
+        "name": "COFFEE MILK TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "TARO MILK TEA": {
+        "name": "TARO MILK TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "HONEY MILK TEA": {
+        "name": "HONEY MILK TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "THAI MILK TEA": {
+        "name": "THAI MILK TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "WINTER MELON MILK GREEN TEA": {
+        "name": "WINTER MELON MILK GREEN TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "OOLONG MILK TEA": {
+        "name": "OOLONG MILK TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "COCONUT MILK TEA": {
+        "name": "COCONUT MILK TEA",
+        "category": "milktea",
+        "user_likes": []
+    },
+    "ALMOND MILK TEA": {
+        "name": "ALMOND MILK TEA",
+        "category": "milktea",
+        "user_likes": []
+    }
+}
